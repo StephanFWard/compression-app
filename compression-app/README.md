@@ -2,10 +2,6 @@
 
 This project demonstrates various data compression techniques implemented in a React application.
 
-# Compression Examples React App
-
-![Compression Example](C:\Users\steph\OneDrive\Desktop\CompressionApp\compression-app\compression-app\public\compression.jpg)
-
 
 # Getting Started with Create React App
 
